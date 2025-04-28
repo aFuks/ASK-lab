@@ -1,0 +1,10 @@
+C:\Users\Tomek\source\repos\ascii rs232\bin\Debug\ascii rs232.exe.config
+C:\Users\Tomek\source\repos\ascii rs232\bin\Debug\ascii rs232.exe
+C:\Users\Tomek\source\repos\ascii rs232\bin\Debug\ascii rs232.pdb
+C:\Users\Tomek\source\repos\ascii rs232\obj\Debug\ascii rs232.csproj.AssemblyReference.cache
+C:\Users\Tomek\source\repos\ascii rs232\obj\Debug\ascii_rs232.Properties.Resources.resources
+C:\Users\Tomek\source\repos\ascii rs232\obj\Debug\ascii_rs232.transceiver.resources
+C:\Users\Tomek\source\repos\ascii rs232\obj\Debug\ascii rs232.csproj.GenerateResource.cache
+C:\Users\Tomek\source\repos\ascii rs232\obj\Debug\ascii rs232.csproj.CoreCompileInputs.cache
+C:\Users\Tomek\source\repos\ascii rs232\obj\Debug\ascii rs232.exe
+C:\Users\Tomek\source\repos\ascii rs232\obj\Debug\ascii rs232.pdb

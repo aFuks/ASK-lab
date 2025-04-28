@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ascii rs232", "ascii rs232.csproj", "{497B123D-9781-48CA-B33C-77E1A0909431}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{497B123D-9781-48CA-B33C-77E1A0909431}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{497B123D-9781-48CA-B33C-77E1A0909431}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{497B123D-9781-48CA-B33C-77E1A0909431}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{497B123D-9781-48CA-B33C-77E1A0909431}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23B9933F-CD12-41A9-9F0F-0D4230825806}
+	EndGlobalSection
+EndGlobal

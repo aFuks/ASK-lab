@@ -1,0 +1,10 @@
+C:\Users\Tomek\source\repos\procesor ASK\bin\Debug\procesor ASK.exe.config
+C:\Users\Tomek\source\repos\procesor ASK\bin\Debug\procesor ASK.exe
+C:\Users\Tomek\source\repos\procesor ASK\bin\Debug\procesor ASK.pdb
+C:\Users\Tomek\source\repos\procesor ASK\obj\Debug\procesor ASK.csproj.AssemblyReference.cache
+C:\Users\Tomek\source\repos\procesor ASK\obj\Debug\procesor_ASK.Form1.resources
+C:\Users\Tomek\source\repos\procesor ASK\obj\Debug\procesor_ASK.Properties.Resources.resources
+C:\Users\Tomek\source\repos\procesor ASK\obj\Debug\procesor ASK.csproj.GenerateResource.cache
+C:\Users\Tomek\source\repos\procesor ASK\obj\Debug\procesor ASK.csproj.CoreCompileInputs.cache
+C:\Users\Tomek\source\repos\procesor ASK\obj\Debug\procesor ASK.exe
+C:\Users\Tomek\source\repos\procesor ASK\obj\Debug\procesor ASK.pdb
