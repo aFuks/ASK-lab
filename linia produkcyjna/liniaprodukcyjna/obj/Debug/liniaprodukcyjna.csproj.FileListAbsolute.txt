@@ -1,0 +1,24 @@
+C:\Users\Tomek\source\repos\liniaprodukcyjna\liniaprodukcyjna\bin\Debug\liniaprodukcyjna.exe.config
+C:\Users\Tomek\source\repos\liniaprodukcyjna\liniaprodukcyjna\bin\Debug\liniaprodukcyjna.exe
+C:\Users\Tomek\source\repos\liniaprodukcyjna\liniaprodukcyjna\bin\Debug\liniaprodukcyjna.pdb
+C:\Users\Tomek\source\repos\liniaprodukcyjna\liniaprodukcyjna\obj\Debug\liniaprodukcyjna.csproj.AssemblyReference.cache
+C:\Users\Tomek\source\repos\liniaprodukcyjna\liniaprodukcyjna\obj\Debug\liniaprodukcyjna.Zaloguj.resources
+C:\Users\Tomek\source\repos\liniaprodukcyjna\liniaprodukcyjna\obj\Debug\liniaprodukcyjna.Properties.Resources.resources
+C:\Users\Tomek\source\repos\liniaprodukcyjna\liniaprodukcyjna\obj\Debug\liniaprodukcyjna.csproj.GenerateResource.cache
+C:\Users\Tomek\source\repos\liniaprodukcyjna\liniaprodukcyjna\obj\Debug\liniaprodukcyjna.csproj.CoreCompileInputs.cache
+C:\Users\Tomek\source\repos\liniaprodukcyjna\liniaprodukcyjna\obj\Debug\liniaprodukcyjna.exe
+C:\Users\Tomek\source\repos\liniaprodukcyjna\liniaprodukcyjna\obj\Debug\liniaprodukcyjna.pdb
+D:\projekty ASK\linia\liniaprodukcyjna\bin\Debug\liniaprodukcyjna.exe.config
+D:\projekty ASK\linia\liniaprodukcyjna\bin\Debug\liniaprodukcyjna.exe
+D:\projekty ASK\linia\liniaprodukcyjna\bin\Debug\liniaprodukcyjna.pdb
+D:\projekty ASK\linia\liniaprodukcyjna\obj\Debug\liniaprodukcyjna.csproj.AssemblyReference.cache
+D:\projekty ASK\linia\liniaprodukcyjna\obj\Debug\liniaprodukcyjna.Zaloguj.resources
+D:\projekty ASK\linia\liniaprodukcyjna\obj\Debug\liniaprodukcyjna.MainForm.resources
+D:\projekty ASK\linia\liniaprodukcyjna\obj\Debug\liniaprodukcyjna.Properties.Resources.resources
+D:\projekty ASK\linia\liniaprodukcyjna\obj\Debug\liniaprodukcyjna.csproj.GenerateResource.cache
+D:\projekty ASK\linia\liniaprodukcyjna\obj\Debug\liniaprodukcyjna.csproj.CoreCompileInputs.cache
+D:\projekty ASK\linia\liniaprodukcyjna\obj\Debug\liniaprodukcyjna.exe
+D:\projekty ASK\linia\liniaprodukcyjna\obj\Debug\liniaprodukcyjna.pdb
+D:\projekty ASK\linia\liniaprodukcyjna\obj\Debug\Interop.WMPLib.dll
+D:\projekty ASK\linia\liniaprodukcyjna\obj\Debug\Interop.WMPNSSCI.dll
+D:\projekty ASK\linia\liniaprodukcyjna\obj\Debug\liniaprodukcyjna.csproj.ResolveComReference.cache
