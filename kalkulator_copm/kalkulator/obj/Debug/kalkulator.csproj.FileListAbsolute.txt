@@ -1,0 +1,20 @@
+C:\Users\Tomek\source\repos\kalkulator\kalkulator\bin\Debug\kalkulator.exe.config
+C:\Users\Tomek\source\repos\kalkulator\kalkulator\bin\Debug\kalkulator.exe
+C:\Users\Tomek\source\repos\kalkulator\kalkulator\bin\Debug\kalkulator.pdb
+C:\Users\Tomek\source\repos\kalkulator\kalkulator\obj\Debug\kalkulator.csproj.AssemblyReference.cache
+C:\Users\Tomek\source\repos\kalkulator\kalkulator\obj\Debug\kalkulator.Form1.resources
+C:\Users\Tomek\source\repos\kalkulator\kalkulator\obj\Debug\kalkulator.Properties.Resources.resources
+C:\Users\Tomek\source\repos\kalkulator\kalkulator\obj\Debug\kalkulator.csproj.GenerateResource.cache
+C:\Users\Tomek\source\repos\kalkulator\kalkulator\obj\Debug\kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\Tomek\source\repos\kalkulator\kalkulator\obj\Debug\kalkulator.exe
+C:\Users\Tomek\source\repos\kalkulator\kalkulator\obj\Debug\kalkulator.pdb
+D:\projekty ASK\kalkulator\bin\Debug\kalkulator.exe.config
+D:\projekty ASK\kalkulator\bin\Debug\kalkulator.exe
+D:\projekty ASK\kalkulator\bin\Debug\kalkulator.pdb
+D:\projekty ASK\kalkulator\obj\Debug\kalkulator.csproj.AssemblyReference.cache
+D:\projekty ASK\kalkulator\obj\Debug\kalkulator.Form1.resources
+D:\projekty ASK\kalkulator\obj\Debug\kalkulator.Properties.Resources.resources
+D:\projekty ASK\kalkulator\obj\Debug\kalkulator.csproj.GenerateResource.cache
+D:\projekty ASK\kalkulator\obj\Debug\kalkulator.csproj.CoreCompileInputs.cache
+D:\projekty ASK\kalkulator\obj\Debug\kalkulator.exe
+D:\projekty ASK\kalkulator\obj\Debug\kalkulator.pdb
