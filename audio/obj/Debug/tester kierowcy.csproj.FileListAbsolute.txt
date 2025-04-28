@@ -1,0 +1,52 @@
+D:\projekty ASK\tester kierowcy\bin\Debug\tester kierowcy.exe.config
+D:\projekty ASK\tester kierowcy\bin\Debug\tester kierowcy.exe
+D:\projekty ASK\tester kierowcy\bin\Debug\tester kierowcy.pdb
+D:\projekty ASK\tester kierowcy\obj\Debug\tester kierowcy.csproj.AssemblyReference.cache
+D:\projekty ASK\tester kierowcy\obj\Debug\tester_kierowcy.Form2.resources
+D:\projekty ASK\tester kierowcy\obj\Debug\tester_kierowcy.Properties.Resources.resources
+D:\projekty ASK\tester kierowcy\obj\Debug\tester kierowcy.csproj.GenerateResource.cache
+D:\projekty ASK\tester kierowcy\obj\Debug\tester kierowcy.csproj.CoreCompileInputs.cache
+D:\projekty ASK\tester kierowcy\obj\Debug\tester kierowcy.exe
+D:\projekty ASK\tester kierowcy\obj\Debug\tester kierowcy.pdb
+D:\projekty ASK\tester kierowcy\obj\Debug\tester_kierowcy.Form3.resources
+D:\projekty ASK\tester kierowcy\obj\Debug\tester_kierowcy.Form4.resources
+D:\projekty ASK\tester kierowcy\obj\Debug\tester_kierowcy.kret.resources
+D:\projekty ASK\tester kierowcy\obj\Debug\tester_kierowcy.kret_warmup.resources
+D:\projekty ASK\tester kierowcy\obj\Debug\tester_kierowcy.infoinfo.resources
+D:\projekty ASK\tester kierowcy\obj\Debug\tester_kierowcy.kret_info.resources
+C:\Users\Tomek\source\repos\projekt2\bin\Debug\tester kierowcy.exe.config
+C:\Users\Tomek\source\repos\projekt2\bin\Debug\tester kierowcy.exe
+C:\Users\Tomek\source\repos\projekt2\bin\Debug\tester kierowcy.pdb
+C:\Users\Tomek\source\repos\projekt2\obj\Debug\tester kierowcy.csproj.AssemblyReference.cache
+C:\Users\Tomek\source\repos\projekt2\obj\Debug\tester_kierowcy.Form3.resources
+C:\Users\Tomek\source\repos\projekt2\obj\Debug\tester_kierowcy.Form4.resources
+C:\Users\Tomek\source\repos\projekt2\obj\Debug\tester_kierowcy.Properties.Resources.resources
+C:\Users\Tomek\source\repos\projekt2\obj\Debug\tester kierowcy.csproj.GenerateResource.cache
+C:\Users\Tomek\source\repos\projekt2\obj\Debug\tester kierowcy.csproj.CoreCompileInputs.cache
+C:\Users\Tomek\source\repos\projekt2\obj\Debug\tester kierowcy.exe
+C:\Users\Tomek\source\repos\projekt2\obj\Debug\tester kierowcy.pdb
+D:\projekty ASK\krekik_dead\bin\Debug\tester kierowcy.exe.config
+D:\projekty ASK\krekik_dead\bin\Debug\tester kierowcy.exe
+D:\projekty ASK\krekik_dead\bin\Debug\tester kierowcy.pdb
+D:\projekty ASK\krekik_dead\obj\Debug\tester kierowcy.csproj.AssemblyReference.cache
+D:\projekty ASK\krekik_dead\obj\Debug\tester_kierowcy.Form4.resources
+D:\projekty ASK\krekik_dead\obj\Debug\tester_kierowcy.Form3.resources
+D:\projekty ASK\krekik_dead\obj\Debug\tester_kierowcy.Properties.Resources.resources
+D:\projekty ASK\krekik_dead\obj\Debug\tester kierowcy.csproj.GenerateResource.cache
+D:\projekty ASK\krekik_dead\obj\Debug\tester kierowcy.csproj.CoreCompileInputs.cache
+D:\projekty ASK\krekik_dead\obj\Debug\tester kierowcy.exe
+D:\projekty ASK\krekik_dead\obj\Debug\tester kierowcy.pdb
+D:\projekty ASK\krekik_dead\obj\Debug\tester_kierowcy.Form2.resources
+D:\projekty ASK\krekik_dead\obj\Debug\tester_kierowcy.kret_warmup.resources
+D:\projekty ASK\krekik_dead\obj\Debug\tester_kierowcy.audio.resources
+D:\projekty ASK\krekik_dead\obj\Debug\tester_kierowcy.audio_info.resources
+D:\projekty ASK\krekik_dead\obj\Debug\tester_kierowcy.audio_warmup.resources
+D:\projekty ASK\krekik_dead\obj\Debug\tester_kierowcy.kret.resources
+D:\projekty ASK\krekik_dead\obj\Debug\tester_kierowcy.finish.resources
+C:\Users\Tomek\source\repos\projekt2\obj\Debug\tester_kierowcy.audio.resources
+C:\Users\Tomek\source\repos\projekt2\obj\Debug\tester_kierowcy.audio_info.resources
+C:\Users\Tomek\source\repos\projekt2\obj\Debug\tester_kierowcy.audio_warmup.resources
+C:\Users\Tomek\source\repos\projekt2\obj\Debug\tester_kierowcy.finish.resources
+C:\Users\Tomek\source\repos\projekt2\obj\Debug\tester_kierowcy.Form2.resources
+C:\Users\Tomek\source\repos\projekt2\obj\Debug\tester_kierowcy.kret.resources
+C:\Users\Tomek\source\repos\projekt2\obj\Debug\tester_kierowcy.kret_warmup.resources
