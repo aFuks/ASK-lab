@@ -18,7 +18,13 @@ Użytkownik ma za zadanie monitorować stan urządzenia, stosować się do alert
 ![image](https://github.com/user-attachments/assets/f123b360-83a0-4602-9952-ef0d38f8319f)
 ![image](https://github.com/user-attachments/assets/0fed750c-69ec-4754-8d51-846b5ae6a67d)
 
+## Zadanie 4 - Komunikacja RS 232 ##
+Interfejs przesyłający ciąg znaków ASCII po uprzednim zakodowaniu ich do postaci binarnej. Zakodowany ciąg znaków przesyłany jest do pliku, a następnie odczytywany. Podczas odczytywania tekst jest sprawdzany pod kątem występowania grubiaństw.
+![image](https://github.com/user-attachments/assets/62491ec0-e0ef-4a37-a714-896b7614c82c)
 
+## Zadanie 5 - Mikroprocesor ##
+Symulator prostego mikroprocesora posiadającego 4 16-bitowe rejestry. Procesor przyjmuje instrukcje: MOV, ADD oraz SUB. 
+![image](https://github.com/user-attachments/assets/38aab585-2194-4483-a535-6e27f17caf07)
 
 
 
